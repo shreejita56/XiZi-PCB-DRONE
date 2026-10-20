@@ -1,6 +1,7 @@
 # PCB-Drone
 
-<img width="767" height="660" alt="Screenshot 2026-08-05 230349" src="https://github.com/user-attachments/assets/51690f64-342c-4d99-8fe5-dd251fc04e64" />
+<img width="1127" height="457" alt="Screenshot 2026-10-20 195516" src="https://github.com/user-attachments/assets/120be3b4-584e-40aa-a478-1da05436b9bf" />
+
 
 So I made a custom PCB based on Esp32 . It holds an IMU and a Barometer for control . It has a normal 4 Motor Layout 2 motors will move  clock wise and 2 will be  anti-clock wise direction. Same direction motor will be diagonally apposite to each other. It have  used a 3.7V battery for power and a boot converter so that I can provide 5V to the Motors as we are using  ESP32 so we could controle it by our phone through bluetooth  .I have also design a web based controller , So that you could connect and controle the Bionic-Bird through your phone.
 
@@ -102,16 +103,21 @@ So I have a USB-C and battery pin (3.7V) then it is commonly connected to power 
 
 ### Schematic
 
-<img width="1197" height="752" alt="Screenshot 2026-08-05 221707" src="https://github.com/user-attachments/assets/46dac1fd-04a3-44be-b418-202bdf7c4fd5" />
+<img width="1205" height="722" alt="Screenshot 2026-10-20 232216" src="https://github.com/user-attachments/assets/a8da89c0-b0b9-4939-b242-4c4c484d0457" />
+
 
 
 ###  PCB Design
 
-<img width="750" height="637" alt="Screenshot 2026-08-05 223850" src="https://github.com/user-attachments/assets/2289d952-7a03-4c28-8be4-af8657073219" />
-<img width="1007" height="785" alt="Screenshot 2026-08-05 223902" src="https://github.com/user-attachments/assets/2cc4119f-5651-4195-bb46-a5e33a5a692a" />
+<img width="921" height="856" alt="Screenshot 2026-10-20 132202" src="https://github.com/user-attachments/assets/dabfb163-1be0-4692-b3c4-dcabdf741039" />
+<img width="805" height="772" alt="Screenshot 2026-10-20 132221" src="https://github.com/user-attachments/assets/1bca38d7-0f12-4c7c-ac71-518201bbc2a0" />
+
 
 
 ###  3D Design
-<img width="771" height="492" alt="Screenshot 2026-08-05 230335" src="https://github.com/user-attachments/assets/c9eb69f7-c460-4eeb-a221-6ebcf3850040" />
-<img width="767" height="660" alt="Screenshot 2026-08-05 230349" src="https://github.com/user-attachments/assets/d9a66ef6-14eb-466c-956e-3503fcb1c35c" />
+<img width="850" height="688" alt="Screenshot 2026-10-20 195331" src="https://github.com/user-attachments/assets/2f8ffd9d-7078-43de-bd0f-1dc0bdcae850" />
+
+<img width="1127" height="457" alt="Screenshot 2026-10-20 195516" src="https://github.com/user-attachments/assets/83e7bfef-220e-452d-80d3-c8c35737dd80" />
+<img width="1115" height="537" alt="Screenshot 2026-10-20 195408" src="https://github.com/user-attachments/assets/dff7f931-0143-483f-b6c5-04565d56bf4a" />
+
 
